@@ -6,6 +6,10 @@ Depends on Lure https://thunderstore.io/c/webfishing/p/Sulayre/Lure/
 
 # changelog
 
+1.2.0
+- Zoo flag prop
+- Dog Fucker title
+
 1.1.0
 - Cynophilia shirt
 - Zootherian hat
